@@ -1,0 +1,12 @@
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\bin\Debug\net6.0\DTO_SaveLink.deps.json
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\bin\Debug\net6.0\DTO_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\bin\Debug\net6.0\DTO_SaveLink.pdb
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.csproj.AssemblyReference.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.AssemblyInfoInputs.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.AssemblyInfo.cs
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.csproj.CoreCompileInputs.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\refint\DTO_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\DTO_SaveLink.pdb
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DTO_Link\obj\Debug\net6.0\ref\DTO_SaveLink.dll

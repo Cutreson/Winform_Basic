@@ -1,0 +1,17 @@
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DAL_SaveLink.deps.json
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DAL_SaveLink.runtimeconfig.json
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DAL_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DAL_SaveLink.pdb
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DTO_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\bin\Debug\net6.0\DTO_SaveLink.pdb
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.csproj.AssemblyReference.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.AssemblyInfoInputs.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.AssemblyInfo.cs
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.csproj.CoreCompileInputs.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.csproj.CopyComplete
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\refint\DAL_SaveLink.dll
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.pdb
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\DAL_SaveLink.genruntimeconfig.cache
+C:\Users\sondh\Desktop\Winform_Basic\SaveLink\DAL_Link\obj\Debug\net6.0\ref\DAL_SaveLink.dll

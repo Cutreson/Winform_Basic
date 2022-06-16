@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_Link.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_Link.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_Link.csproj",
+        "projectName": "DAL_Link",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_Link.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_Link.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_Link.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_Link.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_Link.csproj",
+        "projectName": "DTO_Link",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_Link.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\GUI_Link\\GUI_Link.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\BUS_SaveLink.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\BUS_SaveLink.csproj",
+        "projectName": "BUS_SaveLink",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\BUS_SaveLink.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_SaveLink.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_SaveLink.csproj"
+              },
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_SaveLink.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_SaveLink.csproj",
+        "projectName": "DAL_SaveLink",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\DAL_SaveLink.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DAL_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj",
+        "projectName": "DTO_SaveLink",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\GUI_Link\\GUI_Link.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\GUI_Link\\GUI_Link.csproj",
+        "projectName": "GUI_Link",
+        "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\GUI_Link\\GUI_Link.csproj",
+        "packagesPath": "C:\\Users\\sondh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\GUI_Link\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\BUS_SaveLink.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\BUS_Link\\BUS_SaveLink.csproj"
+              },
+              "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj": {
+                "projectPath": "C:\\Users\\sondh\\Desktop\\Winform_Basic\\SaveLink\\DTO_Link\\DTO_SaveLink.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
