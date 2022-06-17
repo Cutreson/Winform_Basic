@@ -128,6 +128,8 @@
             // 
             // table_Link
             // 
+            this.table_Link.AllowUserToAddRows = false;
+            this.table_Link.AllowUserToDeleteRows = false;
             this.table_Link.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
@@ -136,6 +138,7 @@
             this.table_Link.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.table_Link.Location = new System.Drawing.Point(47, 187);
             this.table_Link.Name = "table_Link";
+            this.table_Link.ReadOnly = true;
             this.table_Link.RowHeadersWidth = 62;
             this.table_Link.RowTemplate.Height = 33;
             this.table_Link.Size = new System.Drawing.Size(677, 345);
