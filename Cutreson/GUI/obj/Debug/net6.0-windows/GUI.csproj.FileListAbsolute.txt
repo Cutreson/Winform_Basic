@@ -1,0 +1,17 @@
+D:\Winform_Basic\Cutreson\GUI\bin\Debug\net6.0-windows\GUI.exe
+D:\Winform_Basic\Cutreson\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+D:\Winform_Basic\Cutreson\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+D:\Winform_Basic\Cutreson\GUI\bin\Debug\net6.0-windows\GUI.dll
+D:\Winform_Basic\Cutreson\GUI\bin\Debug\net6.0-windows\GUI.pdb
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.Form1.resources
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.dll
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.pdb
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+D:\Winform_Basic\Cutreson\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
