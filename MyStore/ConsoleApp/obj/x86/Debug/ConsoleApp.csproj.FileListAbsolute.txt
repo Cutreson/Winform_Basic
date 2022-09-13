@@ -1,0 +1,11 @@
+D:\Winform_Basic\MyStore\ConsoleApp\bin\x86\Debug\ConsoleApp.exe.config
+D:\Winform_Basic\MyStore\ConsoleApp\bin\x86\Debug\ConsoleApp.exe
+D:\Winform_Basic\MyStore\ConsoleApp\bin\x86\Debug\ConsoleApp.pdb
+D:\Winform_Basic\MyStore\ConsoleApp\bin\x86\Debug\DAL.dll
+D:\Winform_Basic\MyStore\ConsoleApp\bin\x86\Debug\DAL.pdb
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.csproj.CopyComplete
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+D:\Winform_Basic\MyStore\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
